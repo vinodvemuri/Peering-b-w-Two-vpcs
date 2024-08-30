@@ -65,7 +65,7 @@ Step11: Go to the route tables and also edit the routes both two
 
 
 
-This is connect to the public server after inside connect the private server process using some commands
+This is connect to the public server after inside connect the private server process using some commands and out like this
 -
 
  ,     #_
